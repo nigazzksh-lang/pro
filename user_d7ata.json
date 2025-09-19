@@ -1,0 +1,48 @@
+{
+    "8034661344": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": false,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "اقبل بدل عروض منطقيه\nخاص يا ورده 🌹",
+                    "media_path": "media/8034661344_broadcast_1.jpg"
+                }
+            ],
+            "interval": 170,
+            "groups": [
+                "channel:2152142364",
+                "channel:1092672221",
+                "channel:2355687225",
+                "channel:1619020516"
+            ],
+            "last_msg_id": []
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 170,
+            "template_pattern": "1",
+            "groups": [
+                "channel:2152142364",
+                "channel:1092672221",
+                "channel:2355687225",
+                "channel:1619020516"
+            ],
+            "templates": [
+                {
+                    "text": "اقبل بدل عروض منطقيه\nخاص يا ورده 🌹",
+                    "media_path": "media/8034661344_broadcast_1.jpg"
+                }
+            ],
+            "group_rotation": {
+                "2152142364": 1,
+                "1092672221": 1,
+                "2355687225": 1,
+                "1619020516": 1
+            }
+        }
+    }
+}
